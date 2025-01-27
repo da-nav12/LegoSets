@@ -55,19 +55,34 @@ The LegoSets Dashboard helps users:
 - **Power BI Service**
 
 ## Insights from the Dashboard
+
 1. **Set Distribution**:
    - Top themes by set count include Licensed & Mordern Day.
    - Largest sets by piece count are typically associated with Star Wars & Marvel Super Heroes.
+---
+
+   ![Image](https://github.com/user-attachments/assets/47cdeffc-e853-489b-a5d3-d9eec2724ff7)
+   
+---
 2. **Yearly Trends**:
    - The number of Lego sets released per year has increased over time.
    - Significant milestones include the introduction of new themes in 2010-2017.
 3. **Piece Count vs. Price**:
    - A positive correlation exists between piece count and price, with exceptions for collector or limited edition sets.
 
+![Image](https://github.com/user-attachments/assets/38cfb02e-673a-45bf-9d9a-4e0675ab04b0)
+
+---
 ## File Information
 - **Filename**: `LegoSets.pbix`
 - **Format**: Power BI Desktop Report File
+---
 
+# Snapshot of Dashboard (Power BI Service)
+![Image](https://github.com/user-attachments/assets/87d74dea-61d4-41d5-878d-bbc97e160469)
+
+
+---
 ## Future Improvements
 - Add real-time data updates for newly released Lego sets.
 - Include additional filters, such as "Set Type" or "Target Age Group."
